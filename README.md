@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Matt-Str97
+- 👀 I’m interested in learning about coding and its applications in finance.
+- 🌱 I’m currently learning Python and a bit of Django.
+- 💞️ I’m looking to collaborate on Python projects oriented in data analysis.
+- 📫 You can reach me via email (matias.strozza@gmail.com) or this platform.
